@@ -12,6 +12,7 @@ body {
   background-color: red;
   width: 200px;
   height: 200px;
+  margin: 0 auto;
 }
 .caja2{
   background-color: rgb(24, 131, 30);
