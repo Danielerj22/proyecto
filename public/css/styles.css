@@ -12,6 +12,7 @@ body {
 =======
   height: 200vh;
   position: relative;
+<<<<<<< HEAD
 >>>>>>> 64e9c7544f6228ba35fde883dc4864bc56b1ae75
 }
 .caja2{
@@ -47,4 +48,6 @@ body {
   background-color: rgb(204, 178, 32);
   width: 200px;
   height: 200px;
+=======
+>>>>>>> d8eac4d9ff05b526e30833a1240b1205eb51b90c
 }
