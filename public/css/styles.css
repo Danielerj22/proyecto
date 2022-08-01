@@ -7,23 +7,32 @@
 }
 body {
   background-color: #343a40;
-}
-.caja1{
-  background-color: red;
-  width: 50%;
-  height: 200px;
+  height: 300vh;
 }
 .caja2{
-  position: absolute;
-  top: 0;
+  background-color: red;
+  width: 50%;
+  position: relative;
+  height: 100vh;
+}
+
+.caja3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: rgb(24, 131, 30);
   width: 200px;
   height: 200px;
+  position: sticky;
+  left: 100px;
+  top: 50%;
 }
-.caja3{
+.caja1{
   background-color: rgb(67, 27, 177);
   width: 200px;
   height: 200px;
+  position: sticky;
+  top: 10px;
 }
 .caja4{
   background-color: rgb(204, 178, 32);
