@@ -10,25 +10,3 @@ body {
   height: 200vh;
   position: relative;
 }
-.caja2{
-  background-color: red;
-  width: 50%;
-  /* height: 200px; */
-}
-.caja3{
-  background-color: rgb(24, 131, 30);
-  width: 200px;
-  height: 200px;
-  position: sticky;
-  top: 0px;
-}
-.caja1{
-  background-color: rgb(67, 27, 177);
-  width: 200px;
-  height: 200px;
-}
-.caja4{
-  background-color: rgb(204, 178, 32);
-  width: 200px;
-  height: 200px;
-}
